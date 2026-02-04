@@ -342,7 +342,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Have questions or want to collaborate? Reach out!
 
 - **Email:** arunesh1125@gmail.com
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/arunesh-kumar-r)
+- **LinkedIn:** [LinkedIn Profile](https://linkedin.com/in/arunesh-kumar-r)
 - **Project Issues:** [GitHub Issues](https://github.com/arunesh1125-pro/smartrent-predictor/issues)
 
 ---
